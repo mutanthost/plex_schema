@@ -12,5 +12,5 @@ of how the innards of my favorite media player works behind the scenes.
 The smaller pdf of the same name of the high-res image below is also included if you ever want to play connect the dots;)
 ![Image ](/images/plex_object_relational_model_skeleton.jpg)
 # Update 07.15.2019
-Postgresl had no problem reading the unedited plexschema.sql
+Postgres had no problem reading the unedited plexschema.sql
 ![Image ](/images/plex_postgres.jpg)
